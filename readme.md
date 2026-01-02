@@ -1,4 +1,6 @@
 # 🔥 FirePrev API — Sistema de Alerta Temprana de Incendios Forestales
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/) 
+[![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
 
 **FirePrev** es una plataforma IoT para el monitoreo en tiempo real de variables ambientales en zonas forestales (temperatura, humedad y humo), con detección de anomalías y emisión de alertas tempranas para la prevención de incendios.
 
