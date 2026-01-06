@@ -1,4 +1,4 @@
-# 🔥 FirePrev — Sistema de Monitoreo con Dashboard y Alertas Automáticas
+# 🔥 FirePrev — Sistema de Monitoreo y Control en zonas forestales
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/) 
 [![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
 
