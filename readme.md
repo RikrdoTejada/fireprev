@@ -40,8 +40,8 @@ Arquitectura contenerizada orientada a microservicios:
 
 ### 1️⃣ Clonar el repositorio
 ```bash
-git clone https://github.com/RikrdoTejada/fireprev-api.git
-cd fireprev-api
+git clone https://github.com/RikrdoTejada/fireprev.git
+cd fireprev
 ```
 
 ### 2️⃣ Configurar variables de entorno (SMTP)
@@ -128,7 +128,7 @@ python simulador.py
 
 ## 📂 Estructura del Proyecto
 ```
-fireprev-api/
+fireprev/
 ├── app/
 │   ├── main.py
 │   ├── models/
